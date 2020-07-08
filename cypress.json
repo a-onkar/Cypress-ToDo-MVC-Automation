@@ -1,5 +1,6 @@
 {
     "$schema": "https://on.cypress.io/cypress.schema.json",
     "watchForFileChanges": false,
-    "baseUrl": "http://todomvc-app-for-testing.surge.sh"
+    "baseUrl": "http://todomvc-app-for-testing.surge.sh",
+    "defaultCommandTimeout": 5000
 }

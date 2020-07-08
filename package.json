@@ -19,6 +19,9 @@
   },
   "homepage": "https://github.com/a-onkar/Cypress-ToDo-MVC-Automation#readme",
   "devDependencies": {
-    "cypress": "^4.7.0"
+    "cypress": "^4.10.0"
+  },
+  "dependencies": {
+    "typescript": "^3.9.5"
   }
 }
